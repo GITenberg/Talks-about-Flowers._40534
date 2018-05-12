@@ -1,0 +1,38 @@
+_repo: Talks-about-Flowers._40534
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wellcome, M. D., Mrs.
+    alias: Wellcome, Mrs. M. D.
+    gutenberg_agent_id: '40678'
+    url: http://www.gutenberg.org/2009/agents/40678
+description: ''
+gutenberg_issued: '2012-08-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40534'
+  lccn: '11033944'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Flowers'
+- !lcc 'SB'
+- !lcsh 'Floriculture'
+tableOfContents: 'Introduction -- A talk to farmers'' wives -- A talk about "the wild
+  garden" -- A talk about stocking the garden -- Phlox Drummondii -- Verbenas -- Petunias
+  -- A talk about Pansies -- Asters -- Balsams -- A talk about Geraniums -- A talk
+  about Begonias -- Gloxinia, Tuberose -- A talk about Gladiolus -- A talk about Pelargoniums
+  -- A talk about Fuchsias -- A talk about Coleuses -- Ornamental foliage plants --
+  A talk about Primroses -- Carnations and Picotees -- A talk about climbers -- Thoughts
+  in my garden: a poem -- A talk about several things -- The love of flowers -- A
+  talk about Abutilons -- A talk about Dahlias -- Amaryllis -- Hoya Carnosa, or Wax
+  Plant -- Among my flowers -- A talk about Cyclamens and Oxalis -- A talk about Lilies
+  -- Double Bouvardia -- Camellia Japonica -- Azalea -- The ingathering of the flowers
+  -- My window box -- Hyacinths -- Insects.'
+title: Talks About Flowers.
+url: http://www.gutenberg.org/ebooks/40534
